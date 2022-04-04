@@ -11,4 +11,4 @@ This is a sample project to showcase a crud application using akka http and h2 d
 
 We had exported [postman](https://www.postman.com/) collection which can then be imported and can be used as an sample.
 
-Sample request :- 
+[Sample request](postman/scala-training.postman_collection.json)
